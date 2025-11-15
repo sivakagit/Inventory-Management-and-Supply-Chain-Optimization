@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sivakagit/Inventory-Management-and-Supply-Chain-Optimization/main/Uploaded%20File/Banner.png" 
+       alt="Inventory Demand Forecasting Banner" width="100%">
+</p>
+
 ---
 
 # 📦 Inventory Demand Forecasting Using Machine Learning & Deep Learning
