@@ -103,3 +103,10 @@ Pull requests are welcome. Feel free to improve models, add new architectures, o
 For questions or collaboration, feel free to reach out!
 
 ---
+## 📥 Dataset Download
+
+This project uses Git LFS to store large files.  
+If you don’t have LFS enabled, install it first:
+
+```bash
+git lfs install
